@@ -1,0 +1,11 @@
+{
+  "name": "koa_method_override",
+  "version": "1.0.0",
+  "description": "method override middleware for koa",
+  "main": "index.js",
+  "author": "ginad",
+  "license": "ISC",
+  "dependencies": {
+    "koa-override-method": "^1.0.0"
+  }
+}
